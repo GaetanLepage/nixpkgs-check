@@ -8,5 +8,6 @@ with pkgs; (
       package = torch;
       cuda = true;
     }
+    python-lsp-ruff
   ])
 )
